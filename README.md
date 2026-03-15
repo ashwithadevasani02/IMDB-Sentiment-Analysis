@@ -1,5 +1,7 @@
 # IMDB Sentiment Analysis
 
+My First NLP+ML model ✨
+
 This project performs sentiment analysis on movie reviews using NLP and Machine Learning.
 
 ## Features
